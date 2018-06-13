@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "405657213886",
+    "firebase_url": "https://sqrfactor-27214.firebaseio.com",
+    "project_id": "sqrfactor-27214",
+    "storage_bucket": "sqrfactor-27214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405657213886:android:b543eb56f4d6edfe",
+        "android_client_info": {
+          "package_name": "com.example.sameershekhar.sqrfactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405657213886-er4trjdd090o04gsnljj6aolc76ebml9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "405657213886-er4trjdd090o04gsnljj6aolc76ebml9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9ubURHAHT-4fyhWE1-VqO90GH0ifhvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
